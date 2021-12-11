@@ -67,7 +67,6 @@ Real-estate advisor has two modules <br>
 <br>
 <br>
 
-![DOS](Defining_our_system.jpg)
 
 ---
 
@@ -78,7 +77,6 @@ Real-estate advisor has two modules <br>
 <br>
 <br>
 
-![SWOT](swot_analysis.jpg)
 
 ---
 
