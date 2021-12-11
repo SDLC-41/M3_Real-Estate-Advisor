@@ -62,25 +62,26 @@ Real-estate advisor has two modules <br>
 
 <br>
 
-## Defining Our System
 
-<br>
-<br>
-
-
----
-
-<br>
 
 ## SWOT Analysis
 
-<br>
-<br>
+### Strengths
+connecting people directly given the information.
+Adjust the time.
+Global usage.
 
+### Weaknesses
+Weak security.
+Cannot know the about information is true or not.
+Not login and signup struct to account are fake or not.
+### Opportunities
+Giving right information to increase abilities.
+Save the customer time.
+### Threats
+Poor service.
+fraudsters may misuse.
 
----
-
-<br>
 
 ## 4W's and 1'H
 
